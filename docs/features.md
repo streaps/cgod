@@ -19,4 +19,4 @@ It is also important to note that cgod is:
 * is configurable via command-line options or a configuration file
 * supports run in the foreground or as a daemon
 * uses asynchronous I/O
-* is cross paltform
+* is cross platform
